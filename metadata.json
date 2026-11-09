@@ -1,0 +1,6 @@
+{
+  "name": "Mall of Ranchi",
+  "description": "Premier shopping, dining, and entertainment destination on Ratu Road, Kumhartoli, Ranchi, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
